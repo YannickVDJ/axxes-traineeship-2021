@@ -1,4 +1,4 @@
-# Resources
+# Start to HTML / CSS
 
 * [Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn)
 * [Interneting Is Hard | Web Development Tutorials For Complete Beginners](https://www.internetingishard.com/)
